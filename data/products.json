@@ -1,0 +1,220 @@
+[
+    {  
+        "id" : 1.0, 
+        "imgs" : [
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipNu5wyy0pyHe758_hZcVuKW4PvuBLW1us8xwLEI", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipNsSUisPjUwUH6fMZkVMQRxpq9PiOcL8KqNW4LQ", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipOIxDykFffVxAE5X4HIQfqF7pkSu3eGGsbELV8w", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipN3ep9EK9HEx18UCsZoKBSO237W6HVNEMPTsMnj", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipNqUycAlXKzF627Y386BGfkSiaLWHpYydxdIUi5", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipNh1g94hdDMNtyWD6aret39OIWDD0lVK34Pa2RI"
+        ], 
+        "img" : "", 
+        "title" : "Jacquard Short-Sleeve Sweater", 
+        "price" : 140.0, 
+        "colors" : [
+            "turquoise", 
+            "bone", 
+            "sangria"
+        ], 
+        "color" : "", 
+        "sizes" : [
+            "xs", 
+            "s", 
+            "m", 
+            "l", 
+            "xl"
+        ], 
+        "size" : "", 
+        "inStock" : true, 
+        "stock" : 14.0, 
+        "categories" : [
+            "sweaters", 
+            "casual"
+        ], 
+        "hasDiscount" : true, 
+        "discount" : 60.0, 
+        "rating" : 0.0, 
+        "description" : "Signature style: this slightly cropped crewneck sweater features our iconic initials in logo jacquard. Go for a luxe head-to-toe look with the matching pencil skirt and baseball hat.", 
+        "details" : "\r\n        • Short-sleeve sweater\r\n        • Logo jacquard\r\n        • 58% viscose/39% nylon/3% elastane\r\n        • Machine wash\r\n        • Imported\r\n        • Model is 5'11\"/180 cm wearing size S\r\n        "
+    },
+    {  
+        "id" : 2.0, 
+        "imgs" : [
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipO14xUHejVJEYM5E0KckDrWRBIXY7V9RTLbiq0L", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipMLDi6tywYXtjJq7rpMsLfV4MCUTOlyJJYmKI2H", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipOmkXggFyeE-WJFHfQknDIC8-1-zfifayIGVLxG", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipOmkXggFyeE-WJFHfQknDIC8-1-zfifayIGVLxG", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipP5Plrq-182MIUtnexU2d9dpbDL2BQwiaMsXx2b", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipNJtRGtOgMUnsXMHWoq0_ozSAkF3oTU8wHvrTpj", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipONpLxno68VcvvccYIrVxKk0ePqGjHoz0gZ5LBo", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipPm_lMOQZkM634i7C97DFmMF5dgUOoB6QuxUSJP", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipPm_lMOQZkM634i7C97DFmMF5dgUOoB6QuxUSJP", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipP37GJT0go11RhU3fGJbfjHhzaB0Ts9ltaqhCzl", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipPV2SEKhy-e4XO6aGLxIpBcpKxIdd80tlK90yvN"
+        ], 
+        "img" : "", 
+        "title" : "Jacquard Tank Dress", 
+        "price" : 210.0, 
+        "colors" : [
+            "sangria", 
+            "nightblue", 
+            "turquoise", 
+            "bone", 
+            "rose water"
+        ], 
+        "color" : "", 
+        "sizes" : [
+            "xs", 
+            "s", 
+            "m", 
+            "l", 
+            "xl"
+        ], 
+        "size" : "", 
+        "inStock" : true, 
+        "stock" : 20.0, 
+        "categories" : [
+            "dresses", 
+            "casual"
+        ], 
+        "hasDiscount" : true, 
+        "discount" : 60.0, 
+        "rating" : 4.0, 
+        "description" : "Our iconic MK initials lend a heritage-chic mood to this jacquard dress. It has a slim, figure-flattering fit and solid ribbed trim along the mini hem. Team yours with the season’s fashion-forward footwear for added impact.", 
+        "details" : "\r\n        • Dress\r\n        • Jacquard\r\n        • 59% viscose/38% nylon/3% elastane\r\n        • Machine wash\r\n        • Imported\r\n        • Model is 5'10\"/178 cm wearing size S\r\n        "
+    },
+    {  
+        "id" : 3.0, 
+        "imgs" : [
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipO5XA9TpE73nZijgmwq_5THNf01-EPeey0N3-eg", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipPwOJF8VfaQPWNTsqNNaMfEKmQMEc9epqKd9UjH"
+        ], 
+        "img" : "", 
+        "title" : "Organic Stretch Cotton Anorak", 
+        "price" : 280.0, 
+        "colors" : [
+            "rose"
+        ], 
+        "color" : "", 
+        "sizes" : [
+            "xs", 
+            "s", 
+            "m", 
+            "l", 
+            "xl"
+        ], 
+        "size" : "", 
+        "inStock" : true, 
+        "stock" : 7.0, 
+        "categories" : [
+            "jackets", 
+            "sweaters", 
+            "casual"
+        ], 
+        "hasDiscount" : true, 
+        "discount" : 50.0, 
+        "rating" : 4.0, 
+        "description" : "Utilitarian details combine with a relaxed energy to create this effortlessly cool anorak. Made from garment-dyed organic stretch cotton, it’s cut in a bomber-inspired silhouette with patch pockets and dropped shoulder seams that enhance its boxy shape. Style yours with a dress, and boots or sandals depending on the weather.", 
+        "details" : "\r\n        • Anorak\r\n        • Organic stretch cotton\r\n        • 98% organic cotton/2% elastane\r\n        • Zip fastening\r\n        • Machine wash\r\n        • Imported\r\n        • Model is 5'9\"/175 cm wearing size S\r\n        "
+    },
+    {  
+        "id" : 4.0, 
+        "imgs" : [
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipNEPqtr9ow8UZl5_ojJws4DGVnwfyZbzRufc6fV", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipM4BtFzkU91grTj7z1svun2fSbLvfZKb2apsvor"
+        ], 
+        "img" : "", 
+        "title" : "Palm Lace Mini Dress", 
+        "price" : 280.0, 
+        "colors" : [
+            "sangria"
+        ], 
+        "color" : "", 
+        "sizes" : [
+            "xs", 
+            "s", 
+            "m", 
+            "l", 
+            "xl"
+        ], 
+        "size" : "", 
+        "inStock" : true, 
+        "stock" : 11.0, 
+        "categories" : [
+            "dresses", 
+            "casual"
+        ], 
+        "description" : "Suspended from barely-there shoulder straps, this palm lace dress embodies the season’s playful ease and getaway charm. Its fit-and-flare silhouette is fully lined for opacity and descends to a playful flounce hem. Style yours with leather sandals and a woven bag wherever the warm weather takes you.", 
+        "details" : "\n    • Dress\n    • Lace\n    • 100% polyester\n    • Lining: 55% recycled polyester/45% polyester\n    • Zip fastening\n    • Machine wash\n    • Imported\n    • Model is 5'11\"/180 cm wearing US size 2\n    ", 
+        "hasDiscount" : true, 
+        "discount" : 50.0, 
+        "rating" : 4.0
+    },
+    { 
+        "id" : 5.0, 
+        "imgs" : [
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipMHMAhHKmIridN4qsqMi4vx4UlfRBYVCSgwhvjW", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipOmPYEZz1gCk5k57Sg1pNnZ9E6cIMx9HtXqN9HA"
+        ], 
+        "img" : "", 
+        "title" : "Mini Logo Print Ciré Reversible Puffer Jacket", 
+        "price" : 350.0, 
+        "colors" : [
+            "chocolate"
+        ], 
+        "color" : "", 
+        "sizes" : [
+            "xs", 
+            "s", 
+            "m", 
+            "l", 
+            "xl"
+        ], 
+        "size" : "", 
+        "inStock" : true, 
+        "stock" : 4.0, 
+        "categories" : [
+            "jackets", 
+            "casual"
+        ], 
+        "description" : "Featuring our Signature logo-print and a glossy ciré finish, this puffer jacket reverses to a solid hue for versatile styling options. A charm on the sleeve lends novelty appeal, while the drawstring hood ensures warmth on chilly days. Slip it on over flirty mini dresses and casual separates alike.", 
+        "details" : "\n    • Jacket\n    • Logo print ciré\n    • 100% polyester\n    • Lining: 100% polyester\n    • Zip fastening\n    • Machine wash\n    • Imported\n    • Model is 5’11”/180 cm wearing size S\n    ", 
+        "hasDiscount" : false, 
+        "discount" : 0.0, 
+        "rating" : 5.0
+    },
+    {  
+        "id" : 6.0, 
+        "imgs" : [
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipMVO6NhuOfF_fafGymWkhYVKSJn3lTspjtxaq7K", 
+            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipOfmvu3QWSSraMUFy8OElz267ylKP1ReV6gKH3o"
+        ], 
+        "img" : "", 
+        "title" : "Packable Nylon Puffer Jacket", 
+        "price" : 250.0, 
+        "colors" : [
+            "black"
+        ], 
+        "color" : "", 
+        "sizes" : [
+            "xs", 
+            "s", 
+            "m", 
+            "l", 
+            "xl"
+        ], 
+        "size" : "", 
+        "inStock" : true, 
+        "stock" : 26.0, 
+        "categories" : [
+            "jackets", 
+            "casual"
+        ], 
+        "description" : "This easy-to-pack nylon puffer jacket will tick all the right boxes for cold-weather days. Featuring a chic quilted design, flattering waist belt and cosy stand collar, it's ideal for outdoor adventures, weekend errands or to keep out the cold on your daily commute.", 
+        "details" : "\n    • 60% Polyester 40% Recycled Polyester\n    • Lining: 100% Polyester\n    • Wadding: 75% Duck Down/25% Waterfowl Feathers\n    • Zipper, snap and cord closures\n    • Logo patch on left sleeve\n    • Stand collar\n    • Belted & packable\n    • Machine Wash\n    • Imported\n    • Model is 5’9” Wearing a Size Small/2​\n    ", 
+        "hasDiscount" : false, 
+        "discount" : 0.0, 
+        "rating" : 5.0
+    }
+]
