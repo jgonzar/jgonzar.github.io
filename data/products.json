@@ -42,16 +42,15 @@
         "id" : 2.0, 
         "imgs" : [
             "https://jgonzar.github.io/data/imgs/02-1b.jpg", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipMLDi6tywYXtjJq7rpMsLfV4MCUTOlyJJYmKI2H", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipOmkXggFyeE-WJFHfQknDIC8-1-zfifayIGVLxG", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipOmkXggFyeE-WJFHfQknDIC8-1-zfifayIGVLxG", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipP5Plrq-182MIUtnexU2d9dpbDL2BQwiaMsXx2b", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipNJtRGtOgMUnsXMHWoq0_ozSAkF3oTU8wHvrTpj", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipONpLxno68VcvvccYIrVxKk0ePqGjHoz0gZ5LBo", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipPm_lMOQZkM634i7C97DFmMF5dgUOoB6QuxUSJP", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipPm_lMOQZkM634i7C97DFmMF5dgUOoB6QuxUSJP", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipP37GJT0go11RhU3fGJbfjHhzaB0Ts9ltaqhCzl", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipPV2SEKhy-e4XO6aGLxIpBcpKxIdd80tlK90yvN"
+            "https://jgonzar.github.io/data/imgs/02-2b.jpg", 
+            "https://jgonzar.github.io/data/imgs/02-1r.jpg", 
+            "https://jgonzar.github.io/data/imgs/02-2r.jpg", 
+            "https://jgonzar.github.io/data/imgs/02-1nb.jpg", 
+            "https://jgonzar.github.io/data/imgs/02-2nb.jpg", 
+            "https://jgonzar.github.io/data/imgs/02-1t.jpg", 
+            "https://jgonzar.github.io/data/imgs/02-2t.jpg", 
+            "https://jgonzar.github.io/data/imgs/02-1s.jpg", 
+            "https://jgonzar.github.io/data/imgs/02-2s.jpg"
         ], 
         "img" : "", 
         "title" : "Jacquard Tank Dress", 
@@ -88,7 +87,7 @@
         "id" : 3.0, 
         "imgs" : [
             "https://jgonzar.github.io/data/imgs/03-1d.jpg", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipPwOJF8VfaQPWNTsqNNaMfEKmQMEc9epqKd9UjH"
+            "https://jgonzar.github.io/data/imgs/03-2d.jpg"
         ], 
         "img" : "", 
         "title" : "Organic Stretch Cotton Anorak", 
@@ -122,7 +121,7 @@
         "id" : 4.0, 
         "imgs" : [
             "https://jgonzar.github.io/data/imgs/04-1s.jpg", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipM4BtFzkU91grTj7z1svun2fSbLvfZKb2apsvor"
+            "https://jgonzar.github.io/data/imgs/04-2s.jpg"
         ], 
         "img" : "", 
         "title" : "Palm Lace Mini Dress", 
@@ -154,8 +153,8 @@
     { 
         "id" : 5.0, 
         "imgs" : [
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipMHMAhHKmIridN4qsqMi4vx4UlfRBYVCSgwhvjW", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipOmPYEZz1gCk5k57Sg1pNnZ9E6cIMx9HtXqN9HA"
+            "https://jgonzar.github.io/data/imgs/05-1c.jpg", 
+            "https://jgonzar.github.io/data/imgs/05-2c.jpg"
         ], 
         "img" : "", 
         "title" : "Mini Logo Print Ciré Reversible Puffer Jacket", 
@@ -187,8 +186,8 @@
     {  
         "id" : 6.0, 
         "imgs" : [
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipMVO6NhuOfF_fafGymWkhYVKSJn3lTspjtxaq7K", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipOfmvu3QWSSraMUFy8OElz267ylKP1ReV6gKH3o"
+            "https://jgonzar.github.io/data/imgs/06-1b.jpg", 
+            "https://jgonzar.github.io/data/imgs/06-2b.jpg"
         ], 
         "img" : "", 
         "title" : "Packable Nylon Puffer Jacket", 
