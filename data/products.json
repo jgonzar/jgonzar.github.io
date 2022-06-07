@@ -3,11 +3,11 @@
         "id" : 1.0, 
         "imgs" : [
             "https://jgonzar.github.io/data/imgs/01-1t.jpg", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipNsSUisPjUwUH6fMZkVMQRxpq9PiOcL8KqNW4LQ", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipOIxDykFffVxAE5X4HIQfqF7pkSu3eGGsbELV8w", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipN3ep9EK9HEx18UCsZoKBSO237W6HVNEMPTsMnj", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipNqUycAlXKzF627Y386BGfkSiaLWHpYydxdIUi5", 
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipNh1g94hdDMNtyWD6aret39OIWDD0lVK34Pa2RI"
+            "https://jgonzar.github.io/data/imgs/01-2t.jpg", 
+            "https://jgonzar.github.io/data/imgs/01-1s.jpg", 
+            "https://jgonzar.github.io/data/imgs/01-2s.jpg", 
+            "https://jgonzar.github.io/data/imgs/01-1r.jpg", 
+            "https://jgonzar.github.io/data/imgs/01-2r.jpg"
         ], 
         "img" : "", 
         "title" : "Jacquard Short-Sleeve Sweater", 
@@ -41,7 +41,7 @@
     {  
         "id" : 2.0, 
         "imgs" : [
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipO14xUHejVJEYM5E0KckDrWRBIXY7V9RTLbiq0L", 
+            "https://jgonzar.github.io/data/imgs/02-1b.jpg", 
             "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipMLDi6tywYXtjJq7rpMsLfV4MCUTOlyJJYmKI2H", 
             "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipOmkXggFyeE-WJFHfQknDIC8-1-zfifayIGVLxG", 
             "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipOmkXggFyeE-WJFHfQknDIC8-1-zfifayIGVLxG", 
@@ -87,7 +87,7 @@
     {  
         "id" : 3.0, 
         "imgs" : [
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipO5XA9TpE73nZijgmwq_5THNf01-EPeey0N3-eg", 
+            "https://jgonzar.github.io/data/imgs/03-1d.jpg", 
             "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipPwOJF8VfaQPWNTsqNNaMfEKmQMEc9epqKd9UjH"
         ], 
         "img" : "", 
@@ -121,7 +121,7 @@
     {  
         "id" : 4.0, 
         "imgs" : [
-            "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipNEPqtr9ow8UZl5_ojJws4DGVnwfyZbzRufc6fV", 
+            "https://jgonzar.github.io/data/imgs/04-1s.jpg", 
             "https://photos.google.com/album/AF1QipNwQAIB63eE_DRHNFL8tV-bwNPIcAfnZJn64Zvb/photo/AF1QipM4BtFzkU91grTj7z1svun2fSbLvfZKb2apsvor"
         ], 
         "img" : "", 
